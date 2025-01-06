@@ -1,6 +1,6 @@
-<nav class="bg-black py-4 px-2 grid grid-cols-3 justify-between items-center relative">
+<nav class="bg-black py-4 px-3 grid grid-cols-3 justify-between items-center relative">
     <div class="flex gap-5 items-center">
-        <i class="text-white hover:bg-accent w-12 h-12 flex items-center justify-center rounded-full"><svg
+        <i class="text-white hover:bg-accent w-12 h-12 flex items-center justify-center rounded-full desktop-menu-btn "><svg
                 xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                 stroke="currentColor" class="size-6">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
@@ -21,7 +21,7 @@
             </svg>
         </i>
     </div>
-    <div class=" bg-black flex gap-7 justify-between absolute w-full items-center px-3 mobile-search hidden ">
+    <div class=" bg-black gap-7 justify-between absolute w-full items-center px-3 mobile-search hidden ">
         <i class="text-white close-search">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                 stroke="currentColor" class="size-6">
